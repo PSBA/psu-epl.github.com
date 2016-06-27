@@ -6,8 +6,8 @@ title: Portland State Business Accelerator Makerspace - The Nerdery
 
 # The Prototyping Lab
 
+---
 #![The L.I.D.](/images/lab_panorama.jpg)
-
 <p align="center">
   <b>Quick Links:</b><br>
   <a href="https://github.com/psu-epl/psu-epl.github.com/wiki/Workshops">Workshops</a> |
@@ -19,6 +19,7 @@ title: Portland State Business Accelerator Makerspace - The Nerdery
   <a href="https://github.com/psu-epl/epl-managers-private/wiki">Managers Only</a> 
   <br>
 </p>
+---
 
 The L.I.D. is a lab for rapidly prototyping electronics projects. It is meant for
 students and the community to be able to walk in with an idea and walk out with a
