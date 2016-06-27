@@ -1,12 +1,12 @@
 ---
 layout: base
-title: Portland State University Laboratory for Interconnected Devices
+title: Portland State Business Accelerator Makerspace - The Nerdery
 ---
 
 
 # The Prototyping Lab
 
-![The L.I.D.](/images/lab_panorama.jpg)
+#![The L.I.D.](/images/lab_panorama.jpg)
 
 <p align="center">
   <b>Quick Links:</b><br>
@@ -32,7 +32,7 @@ The L.I.D. is located on the lower level of the PSU Fourth Avenue Building
 
 ## Lab Calendar
 
-{% include calendar_lab.html %}
+#{% include calendar_lab.html %}
 
 
 ## Lab Equipment
@@ -40,7 +40,7 @@ The L.I.D. is located on the lower level of the PSU Fourth Avenue Building
 Here is the list of equipment and their current status. Sometimes machines
 break, which will be noted here:
 
-{% include machines.html %}
+#{% include machines.html %}
 
 Read about all of our equipment and policies on our **[wiki](https://github.com/psu-epl/psu-epl.github.com/wiki "PSU L.I.D. Wiki")**.
 
