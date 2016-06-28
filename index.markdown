@@ -4,52 +4,32 @@ title: Portland State Business Accelerator Makerspace - The Nerdery
 ---
 
 
-The Portland State Business Accelerator Makerspace
-aka The Nerdery! 
+Welcome to the Portland State Business Accelerator Makerspace, aka the *Nerdery*! 
 
 
-The L.I.D. is a lab for rapidly prototyping electronics projects. It is meant for
-students and the community to be able to walk in with an idea and walk out with a
-fully functioning prototype.
+The Nerdery is a lab to assist local startups in rapidly develop, test, and debug electronics projects.  
 
-<!-- **[Watch an introductory video on the lab](http://youtu.be/P7JFAv6JM00 "YouTube")**. -->
+The Nerdery is located on the lower level of the PSBA Building at 2828 SW Corbett Avenue.  Contact us at 503-725-2312 or via email to accelerator@pdx.edu 
 
-The L.I.D. is located on the lower level of the PSU Fourth Avenue Building
-(FAB) at 1900 SW 4th Avenue in room **FAB 84-20**. Our phone number is
-503-725-2879.
+Read about all of our equipment and policies on our **[wiki](https://github.com/psba/psba.github.io/wiki "PSBA Nerdery Wiki")**.
 
-## Lab Calendar
-
-#{% include calendar_lab.html %}
-
-
-## Lab Equipment
-
-Here is the list of equipment and their current status. Sometimes machines
-break, which will be noted here:
-
-#{% include machines.html %}
-
-Read about all of our equipment and policies on our **[wiki](https://github.com/psu-epl/psu-epl.github.com/wiki "PSU L.I.D. Wiki")**.
+Check out our sister lab at PSU - the **[Lab for Interconnected Devices](http://psu-epl.github.io "PSU Lab for Interconnected Devices")**.
 
 
 ## Lab Status
 
-The lab is currently to all PSU students and staff, and to the greater Portland community members by
-invitation only.
+The lab is currently open to all PSBA Tenants and their Staff, and to the greater Portland area startups upon approval.
 
 
 ## Using the Labs
 
 It's easy! Here's what you do:
 
- 1. Go to our **[wiki](https://github.com/psu-epl/psu-epl.github.com/wiki "wiki")** and read the instructions on the equipment you want to use.
- 2. Check the calendar (below) for office hours.
- 3. Come to the lab during those office hours and get trained by an L.I.D. manager on the equipment you want to use. Once you're trained on a piece of equipment, you can come in during any office hours and use that equipment.
- 4. Once you've been trained on ALL the equipment, and you're willing to volunteer some hours to open the lab, you're eligible to become an L.I.D. student manager. This gives you 24 hour card key acccess, although it does come with a lot of responsibility. Information on how to proceed here: [Becoming a Manager](https://github.com/psu-epl/psu-epl.github.com/wiki/Becoming-an-L.I.D.-Manager "Manager Training") :)
+ 1. Go to our **[wiki](https://github.com/psba/psba.github.io/wiki "wiki")** and read the instructions on the equipment you want to use.
+ 2. Schedule a training session via email to accelerator@pdx.edu
+ 3. Once you're trained on a piece of equipment, you can come in during PSBA business hours and request access at the front desk.  PSBA Tenants are granted 24 hour access.
 
-
-**For more information, please see the [wiki](https://github.com/psu-epl/psu-epl.github.com/wiki "PSU L.I.D. Wiki")**.
+**For more information, please see the [wiki](https://github.com/psba/psba.github.io/wiki "PSBA Nerdery Wiki")**.
 
 
 
